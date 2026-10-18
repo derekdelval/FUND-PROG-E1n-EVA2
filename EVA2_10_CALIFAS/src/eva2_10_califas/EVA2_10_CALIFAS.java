@@ -31,14 +31,14 @@ public class EVA2_10_CALIFAS {
         System.out.println("Dato invalido");
     
     }
-        else if (promedio < 0){
+    else if (promedio < 0){
     
         System.out.println("Dato invalido");
     
     }
     else if (promedio == 67 ){
     
-        System.out.println("Exento, tremendo chad NO CAERAS EN EL RAGE BAIT");
+        System.out.println("GRADUADO CON HONORES, tremendo chad NO CAERAS EN EL RAGE BAIT");
     
     }
     else if (promedio < 70){
